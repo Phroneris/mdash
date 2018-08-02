@@ -82,8 +82,8 @@ a:hover {
 }
 
 #bookmarks > div {
-    width:                      48%;
-    margin:                     0px 0px 30px 0px;
+    width:                      49%;
+    margin:                     10px 0px 15px 0px;
     padding:                    0;
 }
 
@@ -92,7 +92,7 @@ a:hover {
 
 #bookmarks section {
     clear:                      both;
-    padding:                    8px 0px 0px 0px;
+    padding:                    2px 0px 0px 0px;
     height:                     auto;
     overflow:                   hidden;
 }
@@ -102,6 +102,7 @@ a:hover {
     color:                      #666666;
     font-weight:                bold;
     padding-left:               8px;
+    margin:                     0.7em 0 0.3em;
 }
 
 #bookmarks a {
@@ -119,7 +120,7 @@ a:hover {
     width:                      9.5em;
     height:                     4em;
     padding:                    10px 5px 5px 7px;
-    margin:                     2px 6px 6px 2px;
+    margin:                     2px 5px 5px 2px;
     overflow:                   hidden;
     text-overflow:              ellipsis;
     position:                   relative;
