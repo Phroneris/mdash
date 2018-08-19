@@ -1,0 +1,16 @@
+#bookmarks > div {
+    width:                      49%;
+    margin:                     10px 0px 15px 0px;
+}
+
+#bookmarks section {
+    padding:                    2px 0px 0px 0px;
+}
+
+#bookmarks h1 {
+    margin:                     0.7em 0 0.3em;
+}
+
+#bookmarks a {
+    margin:                     2px 5px 5px 2px;
+}
