@@ -1,0 +1,40 @@
+body.small {
+	padding-left: 13px;
+	font-size: 10px;
+}
+
+#bookmarks > div {
+    width: 50%;
+    margin: 5px 0px 15px 0px;
+}
+
+#bookmarks section {
+    padding: 2px 0px 0px 0px;
+}
+
+#bookmarks h1 {
+    margin: 6px 0px 2px 0px;
+	padding-left: 0.4em;
+}
+
+#bookmarks a {
+	line-height: 1.3;
+	word-break: break-all;
+	padding: 6px 6px 6px 7px;
+    margin: 2px 3px 4px 2px;
+	letter-spacing: 0.05em;
+}
+
+#bookmarks a, #bookmarks a.add {
+	width: 75px;
+    height: 38px;
+}
+
+#bookmarks a > img {
+    margin-bottom: -2px;
+	margin-left: -1px;
+}
+
+#controls a {
+	font-size: 1.2em;
+}
