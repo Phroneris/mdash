@@ -22,11 +22,17 @@ body.small {
 	word-break: break-all;
 	padding: 6px 6px 6px 7px;
     margin: 2px 3px 4px 2px;
+	letter-spacing: 0.05em;
 }
 
 #bookmarks a, #bookmarks a.add {
 	width: 75px;
     height: 38px;
+}
+
+#bookmarks a > img {
+    margin-bottom: -2px;
+	margin-left: -1px;
 }
 
 #controls a {
